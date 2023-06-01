@@ -174,7 +174,7 @@
       <div class="row justify-content-around py-5">
         <div class="col-lg-3 mb-3">
           <div class="pb-3 d-flex justify-content-start">
-            <p class="h4 text-white" id="search">搜尋:</p>
+            <p class="h4 text-white" id="search">搜尋：</p>
             <input type="text" v-model="this.select.title" />
           </div>
 

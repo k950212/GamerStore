@@ -127,7 +127,7 @@
       <div class="col-md-4">
         <div class="border border-primary" style="padding: 20px">
           <div class="d-flex justify-content-between">
-            <p>總計:</p>
+            <p>總計：</p>
             <p>{{ $filters.currency(cart.total) }}</p>
           </div>
           <div class="input-group mb-3 input-group-sm">

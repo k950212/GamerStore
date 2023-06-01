@@ -155,7 +155,7 @@
                 </ol>
                 <ol>
                   <i class="bi bi-envelope-fill"></i>
-                  信箱:gamingshop@google.com
+                  信箱：gamingshop@google.com
                 </ol>
               </ul>
             </div>

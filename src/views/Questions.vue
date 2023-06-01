@@ -143,15 +143,15 @@
               ，撥打客服電話，或到實體店面位置，會盡快為您服務。
             </p>
             <div>
-              <p>聯絡方式:</p>
+              <p>聯絡方式：</p>
               <ul>
                 <ol>
                   <i class="bi bi-telephone-fill"></i>
-                  電話:0912345678
+                  電話：0912345678
                 </ol>
                 <ol>
                   <i class="bi bi-house-check"></i>
-                  實體店地址:台北市XX區XX路X段X號X樓
+                  實體店地址：台北市XX區XX路X段X號X樓
                 </ol>
                 <ol>
                   <i class="bi bi-envelope-fill"></i>
